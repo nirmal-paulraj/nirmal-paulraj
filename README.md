@@ -51,8 +51,6 @@ I build responsive, real-world web applications and bring structured, clear expl
 
 ## 🌐 Connect With Me
 
-## 🌐 Connect With Me
-
 - 📧 **Email:** [nirmal.paulraj10@gmail.com](mailto:nirmal.paulraj10@gmail.com)
 - 🐙 **GitHub:** [github.com/revenastron](https://github.com/revenastron)
 - 🐦 **X (Twitter):** [x.com/revenastron](https://x.com/revenastron)
